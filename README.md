@@ -50,10 +50,11 @@ DB_NAME=zeruai
 DB_USER=zeruai
 DB_PASSWORD=zeruai
 ```
-4. In a terminal at the root of the project run `docker-compose up -d --build` to start the Postgres database.
-5. In a terminal at the root of the project run `yarn` or` npm install` to install the dependencies.
-6. At a terminal at the root of the project run `yarn typeorm migration:run` or` npm run typeorm migration:run` to perform the migrations.
-7. At a terminal at the root of the project run `yarn dev:server` or` npm run dev:server` to run the project.
+4. Open the **ormconfig.json** file, located at the root of the project, and adjust the database connection data according to the **.env** file created in step 3.
+5. In a terminal at the root of the project run `docker-compose up -d --build` to start the Postgres database.
+6. In a terminal at the root of the project run `yarn` or` npm install` to install the dependencies.
+7. At a terminal at the root of the project run `yarn typeorm migration:run` or` npm run typeorm migration:run` to perform the migrations.
+8. At a terminal at the root of the project run `yarn dev:server` or` npm run dev:server` to run the project.
 
 <br>
 
