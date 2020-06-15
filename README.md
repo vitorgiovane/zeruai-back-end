@@ -18,28 +18,28 @@
 
 <br>
 
-## :gem: &nbsp;&nbsp; Features
+## :gem: &nbsp; Features
 - Creation of users
 - Creation of sessions
 
 <br>
 
-## :notebook_with_decorative_cover: &nbsp;&nbsp; Documentation
+## :notebook_with_decorative_cover: &nbsp; Documentation
 https://documenter.getpostman.com/view/3822165/SzzhfJqZ?version=latest
 
 <br>
 
-## :arrow_forward: &nbsp;&nbsp; Creating a user
+## :arrow_forward: &nbsp; Creating a user
 <img alt="GoStack 11 - Vitor" src="https://res.cloudinary.com/vitorgiovane/image/upload/v1592202252/zeruai/2020-06-15_03-23_saakrn.png" />
 
 <br>
 
-## :arrow_forward: &nbsp;&nbsp; Creating a session
+## :arrow_forward: &nbsp; Creating a session
 <img alt="GoStack 11 - Vitor" src="https://res.cloudinary.com/vitorgiovane/image/upload/v1592202634/zeruai/2020-06-15_03-29_sueiex.png" />
 
 <br>
 
-## :video_game: &nbsp;&nbsp; How to run this project
+## :video_game: &nbsp; How to run this project
 1. Clone this repository on your machine.
 2. Make sure you have Node.js (12 or higher), Docker and Docker Compose installed on your machine.
 3. At the root of the project, create an **.env** file and fill it in according to the **.env.example** file. Filling example:
@@ -57,7 +57,7 @@ DB_PASSWORD=zeruai
 
 <br>
 
-## :rocket: &nbsp;&nbsp; Technologies
+## :rocket: &nbsp; Technologies
 This project was developed with the following technologies:
 
 - TypeScript
@@ -71,7 +71,7 @@ This project was developed with the following technologies:
 
 <br>
 
-## :page_with_curl: &nbsp;&nbsp; License
+## :page_with_curl: &nbsp; License
 This project is under the MIT license. See the [LICENSE](https://github.com/vitorgiovane/zeruai-back-end/blob/master/LICENSE) for more information.
 
 <br>
@@ -79,4 +79,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/vito
 ---
 Developed by **Vitor Giovane** <span>&#x1f1e7;&#x1f1f7;</span>
 
-**[Talk to me :smile::thumbsup:](https://www.linkedin.com/in/vitorgiovane)** 
+**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/vitorgiovane)** 
